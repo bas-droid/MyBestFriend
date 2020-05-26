@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "337034575330",
+    "firebase_url": "https://wellness-app-1113d.firebaseio.com",
+    "project_id": "wellness-app-1113d",
+    "storage_bucket": "wellness-app-1113d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337034575330:android:f76e3049586c0277c80dbb",
+        "android_client_info": {
+          "package_name": "ng.edu.baze.mybestfriend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337034575330-hh87ju7b030q9oi842keakh0j69pi7ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLi1e5kT5bBS-_iqxGfKBGED1yQSdap8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337034575330-hh87ju7b030q9oi842keakh0j69pi7ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337034575330:android:94d9297099113ccac80dbb",
+        "android_client_info": {
+          "package_name": "ng.edu.baze.wellnessapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337034575330-hh87ju7b030q9oi842keakh0j69pi7ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLi1e5kT5bBS-_iqxGfKBGED1yQSdap8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337034575330-hh87ju7b030q9oi842keakh0j69pi7ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
